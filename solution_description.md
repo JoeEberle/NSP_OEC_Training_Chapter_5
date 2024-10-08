@@ -131,3 +131,12 @@ By following these steps, you can safely lift an injured skier while minimizing 
 ##5.9. Explain the purpose and correct steps of packaging a patient.
 ##5.10. Explain a landing zone and proper helicopter safety.
 
+## Key Terms 
+ 1. **Body Mechanics** - The use of proper posture and techniques to prevent injury when lifting or moving patients. 
+  2. **Carry** - A method of transporting a patient by lifting and supporting them using both hands or a device. 
+  3. **Drag** - A technique used to move a patient by pulling them, often used when speed is necessary, such as in emergencies. 
+  4. **Landing Zone** - A designated area where a medical helicopter can safely land to transport patients or provide emergency care. 
+  5. **Lift** - A method of raising a patient off the ground or bed, often requiring proper body mechanics to prevent injury. 
+  6. **Move** - The act of relocating a patient from one position to another, which may involve carrying, dragging, or lifting. 
+  7. **Spinal Motion Restriction** - The process of limiting movement of the spine in patients with suspected spinal injuries to prevent further damage. 
+ 
