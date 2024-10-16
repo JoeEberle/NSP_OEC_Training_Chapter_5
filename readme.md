@@ -176,11 +176,8 @@ To get started with the **Nsp Oec Training Chapter 5** solution repository, foll
  ![additional_image](NSP_OEC_Training_Chapter_5.png)  <br>![additional_image](packaging_a_patient.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
