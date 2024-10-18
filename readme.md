@@ -139,7 +139,7 @@ By following these steps, you can safely lift an injured skier while minimizing 
   5. **Lift** - A method of raising a patient off the ground or bed, often requiring proper body mechanics to prevent injury. 
   6. **Move** - The act of relocating a patient from one position to another, which may involve carrying, dragging, or lifting. 
   7. **Spinal Motion Restriction** - The process of limiting movement of the spine in patients with suspected spinal injuries to prevent further damage. 
- ![Image image_filename](sample.png)
+ ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
