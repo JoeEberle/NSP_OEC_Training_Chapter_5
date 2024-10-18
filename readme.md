@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Nsp Oec Training Chapter 5 - National Ski Patrol - Outdoor Emergency Care chapter 5
-National Ski Patrol - Outdoor Emergency Care chapter 5
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Nsp Oec Training Chapter 5 - National Ski Patrol - Outdoor Emergency Care chapter 5![Image image_filename](code.png)
 
 Chapter 5: Moving, Lifting, and Transporting Patients
 
@@ -146,9 +139,7 @@ By following these steps, you can safely lift an injured skier while minimizing 
   5. **Lift** - A method of raising a patient off the ground or bed, often requiring proper body mechanics to prevent injury. 
   6. **Move** - The act of relocating a patient from one position to another, which may involve carrying, dragging, or lifting. 
   7. **Spinal Motion Restriction** - The process of limiting movement of the spine in patients with suspected spinal injuries to prevent further damage. 
- 
-![Image image_filename](sample.png)
-
+ ![Image image_filename](sample.png)
 ## Getting Started
 To get started with the **Nsp Oec Training Chapter 5** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -163,6 +154,9 @@ To get started with the **Nsp Oec Training Chapter 5** solution repository, foll
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -172,13 +166,11 @@ To get started with the **Nsp Oec Training Chapter 5** solution repository, foll
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](NSP_OEC_Training_Chapter_5.png)  <br>![additional_image](packaging_a_patient.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
