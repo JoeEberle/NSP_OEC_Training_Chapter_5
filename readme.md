@@ -27,7 +27,7 @@ Chapter 5: Moving, Lifting, and Transporting Patients
 
 When lifting an injured skier, especially in a situation where they may have sustained injuries like fractures, sprains, or dislocations, it is critical to use **proper body mechanics** and ensure that the **injury is stabilized** before moving the patient. The focus should be on **preventing further injury** to both the skier and the rescuer.
 
-Hereâ€™s a step-by-step guide to lifting an injured skier while using **good body mechanics**:
+Here’s a step-by-step guide to lifting an injured skier while using **good body mechanics**:
 
 ---
 
@@ -37,7 +37,7 @@ Hereâ€™s a step-by-step guide to lifting an injured skier while using **good bod
    - **Ensure scene safety**: Before approaching the skier, make sure the area is free from hazards like moving skiers, unstable snow, or unsafe terrain.
    - **Call for help**: If the injury appears serious (e.g., fractures, head injury, spinal injury), call **ski patrol** or emergency medical services immediately. Avoid moving the skier unnecessarily.
 
-#### **2. Assess the Skierâ€™s Condition**
+#### **2. Assess the Skier’s Condition**
    - **Assess the injury**: Determine the extent of the injury. If the skier has a suspected fracture, spinal injury, or head injury, avoid moving them until professional help arrives.
    - **Immobilize the injury**: If you suspect a fracture, **immobilize the injured limb** before attempting to lift or move the skier. Use a **rigid splint** or any available materials (e.g., ski poles, padding) to stabilize the limb.
 
@@ -71,8 +71,8 @@ Hereâ€™s a step-by-step guide to lifting an injured skier while using **good bod
    - **Communicate with the skier**: Let them know what you're doing and ask them to assist as much as they can.
 
 #### **10. Avoid Twisting and Bending**
-   - When moving the skier, **do not twist your spine**. If you need to turn, pivot your feet and move your entire body in the direction youâ€™re heading.
-   - If multiple rescuers are involved, ensure everyone is moving in the same direction to avoid twisting the skierâ€™s body and worsening any potential injuries.
+   - When moving the skier, **do not twist your spine**. If you need to turn, pivot your feet and move your entire body in the direction you’re heading.
+   - If multiple rescuers are involved, ensure everyone is moving in the same direction to avoid twisting the skier’s body and worsening any potential injuries.
 
 #### **11. Lower the Skier with Care**
    - When lowering the skier to the ground or into a more stable position (e.g., onto a toboggan or stretcher), **bend your knees and lower yourself** with your legs.
@@ -80,7 +80,7 @@ Hereâ€™s a step-by-step guide to lifting an injured skier while using **good bod
 
 #### **12. Use Assistance When Needed**
    - If the skier is heavy or the terrain is difficult, **ask for help** from others or use appropriate equipment, such as a **ski patrol toboggan**, to transport the skier.
-   - Mechanical devices or team lifting reduce the risk of injury and ensure the skierâ€™s safety.
+   - Mechanical devices or team lifting reduce the risk of injury and ensure the skier’s safety.
 
 ---
 
@@ -104,7 +104,7 @@ A skier has fallen and appears to have injured their leg. They are unable to sta
    - Position one foot slightly in front of the other to maintain balance.
 
 4. **Communicate with the skier**:
-   - Tell the skier what youâ€™re about to do and encourage them to assist by pushing up with their arms if possible.
+   - Tell the skier what you’re about to do and encourage them to assist by pushing up with their arms if possible.
 
 5. **Lift with your legs**:
    - **Hold the skier close to your body** to reduce strain.
@@ -120,7 +120,7 @@ A skier has fallen and appears to have injured their leg. They are unable to sta
 ---
 
 ### **Key Principles of Good Body Mechanics for Lifting an Injured Skier**:
-- **Assess the scene** and the skierâ€™s condition before moving them. Immobilize any suspected fractures.
+- **Assess the scene** and the skier’s condition before moving them. Immobilize any suspected fractures.
 - **Use a wide base of support** by standing with feet shoulder-width apart.
 - **Bend your knees, not your back**, and lift with your legs to prevent back injuries.
 - **Keep the skier close** to your body to reduce strain on your back and arms.
@@ -154,24 +154,4 @@ By following these steps, you can safely lift an injured skier while minimizing 
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 5** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](NSP_OEC_Training_Chapter_5.png)  <br>![additional_image](packaging_a_patient.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
